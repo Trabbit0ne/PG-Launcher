@@ -1,5 +1,7 @@
 # PG-Launcher 🚀
 ### Setup For Installing Pentagone Group Launcher Tools
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@TrabbitOne)
+
 
 ## Tools
 ``Pentagone-Toolkit``, ``Loctrac (Text-Only)``, ``Sshot`` and ``GRS``
