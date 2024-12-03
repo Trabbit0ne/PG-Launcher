@@ -22,5 +22,5 @@ Pack contain:
   This Pack Contain Tools Developed By The Pentagone Group And Mostly By @Trabbit0ne
   Tools Are Fully Reserved To The Group.
 
-  © Pentagone Group - 2024 - All Rights Reserved
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  © Pentagone Group - 2024 - All Rights Reserved
